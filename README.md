@@ -20,7 +20,7 @@
 🚀 **Projects:**
 
 - 📂 **[SQL Database Analysis](https://github.com/PoojaSubrahmanyam/sql_empolyeetable)** - 30+ queries for business insights
-- 📊 **[SQL SUBQUERIES](#)** - Visualizing sales & revenue trends
+- 📊 **[SQL SUBQUERIES](https://github.com/PoojaSubrahmanyam/SQL-SUBQUERIES)** - single-row subqueries, multi-row subqueries, correlated subqueries, and nested subqueries.
 
 
 ---
