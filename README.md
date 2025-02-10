@@ -19,8 +19,8 @@
 
 🚀 **Projects:**
 
-- 📂 **[SQL Database Analysis](#)** - 30+ queries for business insights
-- 📊 **[Power BI Dashboard](#)** - Visualizing sales & revenue trends
+- 📂 **[SQL Database Analysis](https://github.com/PoojaSubrahmanyam/sql_empolyeetable)** - 30+ queries for business insights
+- 📊 **[SQL SUBQUERIES](#)** - Visualizing sales & revenue trends
 
 
 ---
