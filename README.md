@@ -28,7 +28,7 @@
 💬 **Let's Connect!**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pooja-subrahmanyam/)
-- 📧 [Email](mailto:poojasubrahmanyam@gmail.com)
+- 📧 [Email](mailto:saipooja211998@gmail.com)
 
 🌟 _"Every data point tells a story, let's analyze it together!"_
 
